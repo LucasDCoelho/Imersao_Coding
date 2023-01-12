@@ -1,0 +1,26 @@
+#container > button.blue{
+    background-color: aqua;
+    border: 0;
+    padding: 12px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.297);
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+#container > button.blue:hover{
+    background-color: rgba(1, 235, 235, 0.607);
+}
+
+#container > button.green{
+    background-color: greenyellow;
+    border: 0;
+    padding: 12px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.297);
+    cursor: pointer;
+}
+
+#container > button.green:hover{
+    background-color: rgba(172, 255, 47, 0.6);
+}
